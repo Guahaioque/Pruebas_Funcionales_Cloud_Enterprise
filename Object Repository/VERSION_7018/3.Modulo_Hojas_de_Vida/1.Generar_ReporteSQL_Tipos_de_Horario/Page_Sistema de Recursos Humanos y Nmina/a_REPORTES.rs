@@ -77,7 +77,7 @@
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/frame_html1frameset1frameset1frameset1frame2_menu</value>
+      <value>Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/frame_html1frameset1frameset1frameset1frame2_menu</value>
       <webElementGuid>e4ba34d7-2393-4d3d-a3b0-ea4e935498ea</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
