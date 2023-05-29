@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description>pruebas con repositorio</description>
-   <name>Prueba_seguimiento2</name>
+   <name>Prueba_seguimiento3</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>ad098c8b-5b2b-4390-8e0f-0d2edae6a205</testCaseGuid>
