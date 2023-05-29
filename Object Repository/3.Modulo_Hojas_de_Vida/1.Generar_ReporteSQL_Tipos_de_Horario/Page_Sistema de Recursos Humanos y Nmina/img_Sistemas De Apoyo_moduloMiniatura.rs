@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Sistemas De Apoyo_moduloMiniatura</name>
+   <tag></tag>
+   <elementGuidId>d91c26f1-0bce-42ee-b28a-9635353f605b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > a > img.moduloMiniatura</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Hojas De Vida De Empleados Y Dependientes']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e309434d-ea75-474b-8f39-695698339c57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>moduloMiniatura</value>
+      <webElementGuid>a06b47ae-234b-4d6b-9340-14a5f408b99f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/HCMSACEITES/imagenes/rhmodhdv.png</value>
+      <webElementGuid>fb1f88c9-8a6e-42b9-ab08-1b7d55650d28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Hojas De Vida De Empleados Y Dependientes</value>
+      <webElementGuid>c7895880-d434-4e64-a408-0ac198e707d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/table[2]/tbody[1]/tr[2]/td[2]/a[1]/img[@class=&quot;moduloMiniatura&quot;]</value>
+      <webElementGuid>81626ccb-bef5-4ac6-b3f5-c75b021b7442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/frame_formas</value>
+      <webElementGuid>ec02632c-0dbb-455f-b713-1fe75124c0da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Hojas De Vida De Empleados Y Dependientes']</value>
+      <webElementGuid>1e16c08f-1653-40a8-a376-d2930d24f92b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a/img</value>
+      <webElementGuid>8f1e04ad-618d-4cc3-b150-dea1a77bed1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/HCMSACEITES/imagenes/rhmodhdv.png' and @alt = 'Hojas De Vida De Empleados Y Dependientes']</value>
+      <webElementGuid>5fb69167-5486-4fc6-8c32-06b5678410be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

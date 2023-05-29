@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>URL del Despliegue.</description>
+      <initValue>'https://pruebas.softlandsql.com:8441/HCMSACEITES/ingresar.do'</initValue>
+      <name>Despliegue</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Usuario con el que se ejecuta la prueba.</description>
+      <initValue>'HCMSACEITES'</initValue>
+      <name>Usuario</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Contraseña del usuario con el que se ejecuta la prueba</description>
+      <initValue>'MfhbjzTwn7m2ZT2wiPEEM6e70+Kr5vD8'</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

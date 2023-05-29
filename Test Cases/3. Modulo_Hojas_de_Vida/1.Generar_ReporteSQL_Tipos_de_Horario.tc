@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Generar reportes tipo .sql por ejemplo el de Tipos de Horario, validar la salida y la  url que se genere en la ruta correcta.</description>
+   <name>1.Generar_ReporteSQL_Tipos_de_Horario</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01d819af-80c7-4012-95e2-5b38dedec767</testCaseGuid>
+</TestCaseEntity>

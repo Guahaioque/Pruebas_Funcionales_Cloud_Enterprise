@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tipos De Horario</name>
+   <tag></tag>
+   <elementGuidId>c432cd74-f840-4a82-8a14-6182162b9beb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#itemTextLink69</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='itemTextLink69']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8a4595c7-421d-46d1-b115-c0c9eebfb18f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/HCMSACEITES/www/com.aspsolutions.gwtjforms.GWTJForms/GWTJForms.html?timeout=1800000&amp;cn=com.qmn.form.mnejerpt&amp;war=HCMSACEITES&amp;ubicacion=/mnt/FileSystem1/clientes/APO/HCMSACEITES/GRAF-SRH/hdv/sql/&amp;objeto=rhtiphor&amp;tipo=SQL&amp;titulo=Tipos De Horario&amp;ayuda2=432&amp;impresion=Carta(216x279mm) Vertical 25-10-10-10 Curier-new-normal-10&amp;Plat_Cod=4&amp;Ind_Web=S&amp;Dir_Sal=/salidas/hcmsaceites/&amp;Dir_Prt=txt&amp;seguridad=92210903&amp;QRX4=aa</value>
+      <webElementGuid>47f3d80f-1e92-40fc-948b-8fbc1c04dc19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>formas</value>
+      <webElementGuid>e454a627-71b9-4fba-957e-a4e410883946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>clickOnLink('69', '/HCMSACEITES/www/com.aspsolutions.gwtjforms.GWTJForms/GWTJForms.html?timeout=1800000&amp;cn=com.qmn.form.mnejerpt&amp;war=HCMSACEITES&amp;ubicacion=/mnt/FileSystem1/clientes/APO/HCMSACEITES/GRAF-SRH/hdv/sql/&amp;objeto=rhtiphor&amp;tipo=SQL&amp;titulo=Tipos De Horario&amp;ayuda2=432&amp;impresion=Carta(216x279mm) Vertical 25-10-10-10 Curier-new-normal-10&amp;Plat_Cod=4&amp;Ind_Web=S&amp;Dir_Sal=/salidas/hcmsaceites/&amp;Dir_Prt=txt&amp;seguridad=92210903&amp;QRX4=aa','formas');return false;</value>
+      <webElementGuid>8e26dd65-1bba-489d-8b85-7fba8bcfe289</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>itemTextLink69</value>
+      <webElementGuid>aadafc73-0faf-4c83-9e09-28bfc6f579f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tipos De Horario</value>
+      <webElementGuid>9b7e08f1-3024-4e6f-9070-cf0563975e31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;itemTextLink69&quot;)</value>
+      <webElementGuid>54ef970e-dbc2-43c5-b0cc-7a599885d5c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/frame_html1frameset1frameset1frameset1frame2_menu</value>
+      <webElementGuid>54635263-363b-478c-99ea-8088fc9df8af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='itemTextLink69']</value>
+      <webElementGuid>295c6f04-fe3e-49ec-9985-b4485b151660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='item69']/table/tbody/tr/td[4]/a</value>
+      <webElementGuid>30d029dd-da77-4eff-8424-02b2afdfd61d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tipos De Horario')]</value>
+      <webElementGuid>900d805c-768d-4185-a200-0f875aaabef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entidades Y Coberturas'])[1]/following::a[2]</value>
+      <webElementGuid>a98c7f63-1d15-4023-aa81-642e4666cf08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipos De Nomina'])[1]/following::a[4]</value>
+      <webElementGuid>30bbf192-e277-4d13-a9e7-47e7d8bb9acb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DE DATOS PERSONALES DE EMPLEADOS'])[1]/preceding::a[3]</value>
+      <webElementGuid>e0fb2a7a-4cb5-442f-bd36-89bf0aff450a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DE DATOS LABORALES DE EMPLEADOS'])[1]/preceding::a[24]</value>
+      <webElementGuid>0574aabb-c7e9-4b12-b412-eab6f46d18f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tipos De Horario']/parent::*</value>
+      <webElementGuid>1504f147-fb9f-4366-a9e0-d798cafdb3fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/HCMSACEITES/www/com.aspsolutions.gwtjforms.GWTJForms/GWTJForms.html?timeout=1800000&amp;cn=com.qmn.form.mnejerpt&amp;war=HCMSACEITES&amp;ubicacion=/mnt/FileSystem1/clientes/APO/HCMSACEITES/GRAF-SRH/hdv/sql/&amp;objeto=rhtiphor&amp;tipo=SQL&amp;titulo=Tipos De Horario&amp;ayuda2=432&amp;impresion=Carta(216x279mm) Vertical 25-10-10-10 Curier-new-normal-10&amp;Plat_Cod=4&amp;Ind_Web=S&amp;Dir_Sal=/salidas/hcmsaceites/&amp;Dir_Prt=txt&amp;seguridad=92210903&amp;QRX4=aa')])[2]</value>
+      <webElementGuid>215a62de-4705-42a4-a260-67e067fe25ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[71]/table/tbody/tr/td[4]/a</value>
+      <webElementGuid>8c9e4842-a21e-42e6-8b8f-e6c8e7a00cfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/HCMSACEITES/www/com.aspsolutions.gwtjforms.GWTJForms/GWTJForms.html?timeout=1800000&amp;cn=com.qmn.form.mnejerpt&amp;war=HCMSACEITES&amp;ubicacion=/mnt/FileSystem1/clientes/APO/HCMSACEITES/GRAF-SRH/hdv/sql/&amp;objeto=rhtiphor&amp;tipo=SQL&amp;titulo=Tipos De Horario&amp;ayuda2=432&amp;impresion=Carta(216x279mm) Vertical 25-10-10-10 Curier-new-normal-10&amp;Plat_Cod=4&amp;Ind_Web=S&amp;Dir_Sal=/salidas/hcmsaceites/&amp;Dir_Prt=txt&amp;seguridad=92210903&amp;QRX4=aa' and @id = 'itemTextLink69' and (text() = 'Tipos De Horario' or . = 'Tipos De Horario')]</value>
+      <webElementGuid>841f9f80-514f-4118-b36d-8169d8a2ed44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
