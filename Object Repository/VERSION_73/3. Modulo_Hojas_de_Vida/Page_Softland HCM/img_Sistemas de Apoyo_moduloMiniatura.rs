@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Sistemas de Apoyo_moduloMiniatura</name>
+   <tag></tag>
+   <elementGuidId>ffce1dd4-3cbe-41d7-9362-10af20244e75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > a > img.moduloMiniatura</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='galeria']/table/tbody/tr[2]/td[2]/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6f7060ad-2f55-4af2-b6c0-00cede9e478e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>moduloMiniatura</value>
+      <webElementGuid>f5794994-93f7-49bf-87f5-4024f9bde2e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/Q7SOLINME/imagenes/rhmodhdv.png</value>
+      <webElementGuid>4b04d5cc-d968-4d7d-96c9-b30bb30eea6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Hojas De Vida De Empleados Y Dependientes</value>
+      <webElementGuid>cd3203fa-7c3d-48d8-a763-79d31a700c2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;galeria&quot;)/table[1]/tbody[1]/tr[2]/td[2]/a[1]/img[@class=&quot;moduloMiniatura&quot;]</value>
+      <webElementGuid>338863f3-cc77-4cda-90eb-21dfa0f46797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/VERSION_73/3. Hojas_de_Vida/Page_Softland HCM/iframe_formas</value>
+      <webElementGuid>4a9d24e5-1a1c-4564-96fd-d1cd2105b4fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='galeria']/table/tbody/tr[2]/td[2]/a/img</value>
+      <webElementGuid>cf22cb92-b2ef-4e5b-a432-5d0b25cbac7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Hojas De Vida De Empleados Y Dependientes']</value>
+      <webElementGuid>19b2b0c0-40d5-4c37-82be-e0aab42d4050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a/img</value>
+      <webElementGuid>71bfe049-f359-4582-9d5e-44642ae07f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/Q7SOLINME/imagenes/rhmodhdv.png' and @alt = 'Hojas De Vida De Empleados Y Dependientes']</value>
+      <webElementGuid>0d625343-61bc-4073-b8a8-0b1bb62ca800</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

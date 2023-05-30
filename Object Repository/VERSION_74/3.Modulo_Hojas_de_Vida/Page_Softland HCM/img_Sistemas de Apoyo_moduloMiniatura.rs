@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Sistemas de Apoyo_moduloMiniatura</name>
+   <tag></tag>
+   <elementGuidId>7912dc89-4341-4432-9bd7-9282c4d85589</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > a > img.moduloMiniatura</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='galeria']/table/tbody/tr[2]/td[2]/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3cd69f0d-be63-43c1-82b8-c34fc44c18dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>moduloMiniatura</value>
+      <webElementGuid>14e0ac0e-df10-462e-9cb9-f79dc71c54f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/HCMCRDVALSTD/imagenes/rhmodhdv.png</value>
+      <webElementGuid>2beed40b-363c-4d92-bb19-1bdae1d375cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Hojas De Vida De Empleados Y Dependientes</value>
+      <webElementGuid>c0e75623-7331-4c07-ad58-8ca6c155d1c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;galeria&quot;)/table[1]/tbody[1]/tr[2]/td[2]/a[1]/img[@class=&quot;moduloMiniatura&quot;]</value>
+      <webElementGuid>019cc5ad-ce65-4f56-a9dd-21e8279317cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/VERSION_74/3.Modulo_Hojas_de_Vida/Page_Softland HCM/iframe_concat(id(, , ce, , ))_formas</value>
+      <webElementGuid>b4995d49-72ca-4acc-a80c-f73217a16721</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='galeria']/table/tbody/tr[2]/td[2]/a/img</value>
+      <webElementGuid>0afd9556-9f02-444f-bebf-f7b90dcafe77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Hojas De Vida De Empleados Y Dependientes']</value>
+      <webElementGuid>b550cd7d-5db1-4514-8bc3-9cef6fe97320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a/img</value>
+      <webElementGuid>be820a68-2f88-4fe5-976f-c1f7d5c39aad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/HCMCRDVALSTD/imagenes/rhmodhdv.png' and @alt = 'Hojas De Vida De Empleados Y Dependientes']</value>
+      <webElementGuid>e90f77a1-4069-46c2-b9aa-7973ad4b124f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
