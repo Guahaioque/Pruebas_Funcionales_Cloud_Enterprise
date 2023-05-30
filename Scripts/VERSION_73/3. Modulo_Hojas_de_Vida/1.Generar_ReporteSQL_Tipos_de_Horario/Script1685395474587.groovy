@@ -21,27 +21,33 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl(GlobalVariable.Despliegue)
+WebUI.navigateToUrl(GlobalVariable.Despliegue73)
 
-WebUI.setText(findTestObject('Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/input_Usuario_usuario'), 
-    GlobalVariable.Usuario)
+WebUI.setText(findTestObject('Object Repository/VERSION_73/3. Hojas_de_Vida/Page_Softland HCM/input_Ingresar_usuario'), 
+    GlobalVariable.Usuario73)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/input_Clave_clave'), 
-    GlobalVariable.Password)
+WebUI.setEncryptedText(findTestObject('Object Repository/VERSION_73/3. Hojas_de_Vida/Page_Softland HCM/input_Ingresar_clave'), 
+    GlobalVariable.Password73)
 
-WebUI.click(findTestObject('Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/input_Clave_boton'))
+WebUI.click(findTestObject('Object Repository/VERSION_73/3. Hojas_de_Vida/Page_Softland HCM/button_Ingresar'))
 
-WebUI.click(findTestObject('Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/img_Sistemas De Apoyo_moduloMiniatura'))
+WebUI.click(findTestObject('Object Repository/VERSION_73/3. Hojas_de_Vida/Page_Softland HCM/img_Sistemas de Apoyo_moduloMiniatura'))
 
-WebUI.click(findTestObject('Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/a_REPORTES'))
+WebUI.click(findTestObject('Object Repository/VERSION_73/3. Hojas_de_Vida/Page_Softland HCM/img_Consulta General Empleado_nodeIcon60'))
 
-WebUI.click(findTestObject('Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/a_Tipos De Horario'))
+WebUI.click(findTestObject('Object Repository/VERSION_73/3. Hojas_de_Vida/Page_Softland HCM/a_Tipos De Horario'))
 
-WebUI.click(findTestObject('Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/div_Generar'))
+WebUI.click(findTestObject('Object Repository/VERSION_73/3. Hojas_de_Vida/Page_Softland HCM/div_Generar'))
 
-WebUI.delay(10, FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/VERSION_73/3. Hojas_de_Vida/Page_Softland HCM/div_Editar'))
 
-WebUI.click(findTestObject('Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/div_Editar'))
+WebUI.switchToWindowTitle('')
+
+WebUI.click(findTestObject('Object Repository/VERSION_73/3. Hojas_de_Vida/Page_/pre_Pag           1SRHSOLINMEQ7            _a6241d'))
+
+WebUI.switchToWindowTitle('Softland HCM')
+
+WebUI.click(findTestObject('Object Repository/VERSION_73/3. Hojas_de_Vida/Page_Softland HCM/div_Cancelar'))
 
 WebUI.closeBrowser()
 

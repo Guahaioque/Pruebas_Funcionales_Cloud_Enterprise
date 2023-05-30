@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>frame</value>
-      <webElementGuid>5de29031-87ae-4052-bdfe-d74f23edb331</webElementGuid>
+      <webElementGuid>63b61189-2bd6-42ff-ad95-a8faa5bbcb9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/HCMSACEITES/verClasificacion.do</value>
-      <webElementGuid>70856b77-82a9-4d82-bdc5-0e052cfaa661</webElementGuid>
+      <webElementGuid>6f9d1fc3-1ab1-41a3-a721-f60f3758320b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>formas</value>
-      <webElementGuid>3d4a7a40-7321-42ac-9bb7-c24f0a62e724</webElementGuid>
+      <webElementGuid>2a1915a7-86ec-4ee5-bf6e-d8cbb7f42c1e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>scrolling</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>1ab38569-f03c-4602-8dcd-1152a0b1e420</webElementGuid>
+      <webElementGuid>0f1bccaa-a68e-4533-a369-188329896ef8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>frameborder</name>
       <type>Main</type>
       <value>no</value>
-      <webElementGuid>bcbc3db6-d077-46af-90f8-74dde0fa4556</webElementGuid>
+      <webElementGuid>cfe52cdc-2dc8-4ed0-adb3-e5ac741bf9de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/frameset[1]/frameset[1]/frameset[2]/frame[1]</value>
-      <webElementGuid>12365eb8-1da3-4cb4-9639-894ea6255232</webElementGuid>
+      <webElementGuid>dcac22bd-9356-4580-9bab-92002caaa971</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//frame[@name='formas']</value>
-      <webElementGuid>166d1e13-4df1-4e91-89c3-e772bfcbf1a1</webElementGuid>
+      <webElementGuid>fdb88d91-428e-4277-b4d6-c6f4cb05dc20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//frameset[2]/frame</value>
-      <webElementGuid>a3595ace-abc7-4072-8250-2319b0c2df58</webElementGuid>
+      <webElementGuid>dc3ddf22-26d5-4621-96f6-cc62bbcc4158</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//frame[@src = '/HCMSACEITES/verClasificacion.do' and @name = 'formas']</value>
-      <webElementGuid>b9bf7591-26fd-499c-8809-dcf1519f30a4</webElementGuid>
+      <webElementGuid>2f0ec18b-83ee-4c76-98df-8439728f09ea</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

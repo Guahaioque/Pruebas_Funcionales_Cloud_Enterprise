@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>frame</value>
-      <webElementGuid>43584dc5-7607-45d4-a2f5-ec2576ea99d8</webElementGuid>
+      <webElementGuid>625dd551-2adf-452d-9c87-f98f845e9899</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/HCMSACEITES/getMenuModulo.do</value>
-      <webElementGuid>8edcfa92-1526-4951-b2d8-696e65bb24e9</webElementGuid>
+      <webElementGuid>d22b220d-e322-494c-832b-328684b1c26b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>menu</value>
-      <webElementGuid>d8db7abf-78b4-4d48-8b6d-b28112b75337</webElementGuid>
+      <webElementGuid>edf07363-6072-41c7-a868-66812d89935b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>scrolling</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>3b6ec65b-8892-416a-a1ab-b5eef5c08dcc</webElementGuid>
+      <webElementGuid>f3a1f58a-9f81-4f8a-b5b2-4089edd01840</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>frameborder</name>
       <type>Main</type>
       <value>no</value>
-      <webElementGuid>2c7474b6-61ad-43c5-ba6c-486735f4b5bf</webElementGuid>
+      <webElementGuid>61c524cc-dcc4-482a-bc5e-bbe125f3510b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/frameset[1]/frameset[1]/frameset[1]/frame[2]</value>
-      <webElementGuid>fcc9fdcc-f875-491a-8e3e-791f8a9066b6</webElementGuid>
+      <webElementGuid>d3d4955a-a280-42bf-bf17-628234bda7d1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//frame[@name='menu']</value>
-      <webElementGuid>99371752-bf2b-454d-8d23-58a7a976bd67</webElementGuid>
+      <webElementGuid>a778c8b7-8da3-445b-a40c-f023c64f9175</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//frameset/frameset/frame[2]</value>
-      <webElementGuid>b18f36de-a942-4d88-87b8-2db39cb91b71</webElementGuid>
+      <webElementGuid>c55f7d39-c59d-443e-93e7-9cefb06fc429</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//frame[@src = '/HCMSACEITES/getMenuModulo.do' and @name = 'menu']</value>
-      <webElementGuid>2d034132-c521-45be-b5ae-9ea29d2ae5af</webElementGuid>
+      <webElementGuid>b2734f68-50a3-41e9-9b17-d3e9aed18e34</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

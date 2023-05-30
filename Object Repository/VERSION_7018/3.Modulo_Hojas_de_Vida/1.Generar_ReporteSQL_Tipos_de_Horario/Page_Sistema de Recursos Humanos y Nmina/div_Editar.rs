@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>faac7985-4e25-4f1e-88c5-452c1db6f654</webElementGuid>
+      <webElementGuid>95be43a7-4ab8-4a44-bfbb-e08aadd9f968</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>default_XButtonText</value>
-      <webElementGuid>dc6b5027-b3aa-425e-a068-a4f33fbd8db4</webElementGuid>
+      <webElementGuid>380b21c0-dec7-471d-93ed-948690b34a98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Editar</value>
-      <webElementGuid>0d4d031a-6df1-4e45-98ff-a803a635730f</webElementGuid>
+      <webElementGuid>2959728e-6566-474f-a67d-3c701c77cf04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;2&quot;)/div[@class=&quot;default_XButton&quot;]/div[@class=&quot;default_XButtonInnerButton&quot;]/div[@class=&quot;default_XButtonText&quot;]</value>
-      <webElementGuid>5d330a45-5345-4115-9099-038059598fbb</webElementGuid>
+      <webElementGuid>a090b538-34b5-44a1-8754-9a37d90965ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/frame_formas</value>
-      <webElementGuid>1bd3e690-f709-43fc-93d7-cd14d6c9fe33</webElementGuid>
+      <webElementGuid>986c3a55-6f0a-47e6-a81e-0374da1a7a8c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='2']/div[3]/div[3]/div</value>
-      <webElementGuid>9175cd9f-1478-4c60-a222-f68038d9e284</webElementGuid>
+      <webElementGuid>8232f61f-5e07-423c-b85e-e487ddb97966</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/following::div[11]</value>
-      <webElementGuid>19e31301-a7ee-49f9-912a-949bd1b53213</webElementGuid>
+      <webElementGuid>a3a7f949-79a3-43cc-8aba-b3b236a0e30a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Generar'])[1]/following::div[22]</value>
-      <webElementGuid>eb67cf6f-fc81-4214-893f-0bed26e4e105</webElementGuid>
+      <webElementGuid>5b88059d-9e65-470e-9b74-3e2db74b2a7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Acción'])[1]/preceding::div[7]</value>
-      <webElementGuid>d581a208-f797-4127-8dbe-7915a57e1655</webElementGuid>
+      <webElementGuid>4d364cc9-0c8b-4b9c-977a-e1e137c469ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Editar'])[2]/preceding::div[7]</value>
-      <webElementGuid>a259badf-545b-40aa-9624-10b349cfd06d</webElementGuid>
+      <webElementGuid>4cf65058-17ff-47f7-b5e3-bfd3859b4090</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Editar']/parent::*</value>
-      <webElementGuid>fd0df745-2dee-46bf-a3c5-37c518b480d0</webElementGuid>
+      <webElementGuid>2280395c-b8be-47d7-9a25-ab4dfd2f5490</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[3]/div</value>
-      <webElementGuid>7cb56a76-c014-42d2-b471-a9f5519af04b</webElementGuid>
+      <webElementGuid>ae91f7b2-ea0c-4415-9757-195919a841bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Editar' or . = 'Editar')]</value>
-      <webElementGuid>28499a80-4003-4f9c-873d-1cd49e03ee6b</webElementGuid>
+      <webElementGuid>d84feeb5-1abb-4559-90ef-69864a9bfdbe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

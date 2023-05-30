@@ -7,16 +7,136 @@
    <GlobalVariableEntity>
       <description>URL del Despliegue.</description>
       <initValue>'https://pruebas.softlandsql.com:8441/HCMSACEITES/ingresar.do'</initValue>
-      <name>Despliegue</name>
+      <name>Despliegue7018</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Usuario con el que se ejecuta la prueba.</description>
       <initValue>'HCMSACEITES'</initValue>
-      <name>Usuario</name>
+      <name>Usuario7018</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>Contraseña del usuario con el que se ejecuta la prueba</description>
       <initValue>'MfhbjzTwn7m2ZT2wiPEEM6e70+Kr5vD8'</initValue>
-      <name>Password</name>
+      <name>Password7018</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://pruebas.softlandsql.com:8445/Q7SOLINME/ingresar.do'</initValue>
+      <name>Despliegue73</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'SRHSOLINMEQ7'</initValue>
+      <name>Usuario73</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'gioHDkdWr+mcTNw80wngqA=='</initValue>
+      <name>Password73</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://pruebas.softlandsql.com/HCMCRDVALSTD/ingresar.do'</initValue>
+      <name>Despliegue74</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'HCMCRDVAL'</initValue>
+      <name>Usuario74</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'br9U+8i0BNYV9D7OZ0jxMA=='</initValue>
+      <name>Password74</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>5</initValue>
+      <name>Delay_5_Seg</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>3</initValue>
+      <name>Delay_3_Seg</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>7</initValue>
+      <name>Delay_7_Seg</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>10</initValue>
+      <name>Delay_10_Seg</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>30</initValue>
+      <name>Delay_30_Seg</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Delay de 120 segundos para accion Waitin Response. </description>
+      <initValue>120</initValue>
+      <name>Delay_For_Wait</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Usuario_Perfilado7018</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Password_Perfilado7018</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Usuario_Perfilado73</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Password_Perfilado73</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Usuario_Perfilado74</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Password_Perfilado74</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Codigo_Perfil7018</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Codigo_Perfil73</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Codigo_Perfil74</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Nivel_Perfil7018</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Nivel_Perfil73</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Nivel_Perfil74</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

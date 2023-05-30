@@ -9,6 +9,16 @@
       "proposedLocatorMethod": "BASIC",
       "recoveryMethod": "BASIC",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/input_Clave_boton_BASIC.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/VERSION_73/3. Hojas_de_Vida/Page_/pre_Pag           1SRHSOLINMEQ7            _a6241d",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027/html[1]/body[1]/pre[1]\u0027])[1]/preceding::pre[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//pre",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/VERSION_73/3. Hojas_de_Vida/Page_/pre_Pag           1SRHSOLINMEQ7            _a6241d_position.png"
     }
   ]
 }

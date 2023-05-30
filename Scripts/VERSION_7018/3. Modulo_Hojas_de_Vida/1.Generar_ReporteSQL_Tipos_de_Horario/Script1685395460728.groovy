@@ -21,27 +21,31 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl(GlobalVariable.Despliegue)
+WebUI.navigateToUrl(GlobalVariable.Despliegue7018)
 
 WebUI.setText(findTestObject('Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/input_Usuario_usuario'), 
-    GlobalVariable.Usuario)
+    GlobalVariable.Usuario7018)
 
 WebUI.setEncryptedText(findTestObject('Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/input_Clave_clave'), 
-    GlobalVariable.Password)
+    GlobalVariable.Password7018)
 
 WebUI.click(findTestObject('Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/input_Clave_boton'))
 
 WebUI.click(findTestObject('Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/img_Sistemas De Apoyo_moduloMiniatura'))
 
-WebUI.click(findTestObject('Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/a_REPORTES'))
+WebUI.click(findTestObject('Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/img_Polivalencia x Empleado_nodeIcon54'))
 
 WebUI.click(findTestObject('Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/a_Tipos De Horario'))
 
 WebUI.click(findTestObject('Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/div_Generar'))
 
-WebUI.delay(10, FailureHandling.STOP_ON_FAILURE)
+WebUI.delay(GlobalVariable.Delay_3_Seg)
 
 WebUI.click(findTestObject('Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/div_Editar'))
+
+WebUI.delay(GlobalVariable.Delay_3_Seg)
+
+WebUI.click(findTestObject('Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/div_Cancelar'))
 
 WebUI.closeBrowser()
 

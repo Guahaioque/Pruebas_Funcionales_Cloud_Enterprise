@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>30913ed4-42d7-400b-b6c7-c324150433bf</webElementGuid>
+      <webElementGuid>f040d7e0-234c-48bc-b7dd-3fa519532d3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>default_XButtonText</value>
-      <webElementGuid>601c402b-fafb-4cf6-ac9a-114366681ae1</webElementGuid>
+      <webElementGuid>30bfd7dc-d641-4a1c-b8f9-eb24322c99a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Generar</value>
-      <webElementGuid>44c6f9b2-68bf-4863-a9e3-f2516ae7230f</webElementGuid>
+      <webElementGuid>f88fdb1d-3912-4186-8f1d-e7ff741f7ba6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;2&quot;)/div[@class=&quot;default_XButton&quot;]/div[@class=&quot;default_XButtonInnerButton&quot;]/div[@class=&quot;default_XButtonText&quot;]</value>
-      <webElementGuid>4f0432ff-d0e7-439e-a7dd-3d8524eb12ba</webElementGuid>
+      <webElementGuid>6d2e1535-a70d-4782-9070-f1754e030fbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/VERSION_7018/3.Modulo_Hojas_de_Vida/1.Generar_ReporteSQL_Tipos_de_Horario/Page_Sistema de Recursos Humanos y Nmina/frame_formas</value>
-      <webElementGuid>60babe38-6361-4f8e-8f84-4e0227694de2</webElementGuid>
+      <webElementGuid>6347984d-6b98-42d6-96b0-45138474facf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='2']/div/div[3]/div</value>
-      <webElementGuid>240b001f-d740-48d7-b7e1-8da949ba77a2</webElementGuid>
+      <webElementGuid>f463afaa-ffdf-414f-8921-bcb538ad6919</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Se genera reporte por empleado?'])[1]/following::div[6]</value>
-      <webElementGuid>2b227bb0-3dc9-41f4-a923-a52fb90a5931</webElementGuid>
+      <webElementGuid>31c476d7-b448-4545-9619-1445c34cb2cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Salida:'])[2]/following::div[6]</value>
-      <webElementGuid>c7350d33-9ecf-4fd0-97d2-1dfaaa90856a</webElementGuid>
+      <webElementGuid>a2624b1f-2c81-4f61-aa2a-e827c3e758bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/preceding::div[9]</value>
-      <webElementGuid>306e53ae-47ec-4aa0-8cc7-6294ce65f923</webElementGuid>
+      <webElementGuid>909b0362-3f04-4a9c-9875-fee630b57bd4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Editar'])[1]/preceding::div[20]</value>
-      <webElementGuid>c35e9966-b1ff-45f1-a437-a324b40e6405</webElementGuid>
+      <webElementGuid>2e04b8ac-6071-4f8c-82c0-795affe909c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Generar']/parent::*</value>
-      <webElementGuid>f9ce01be-b1fd-430e-bf76-52f5704379fd</webElementGuid>
+      <webElementGuid>4663c1b1-7328-4852-989f-076fd71446de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[3]/div</value>
-      <webElementGuid>eee9cd2a-479e-402d-b7d7-1e609305ab65</webElementGuid>
+      <webElementGuid>c60b8b25-e34e-43c0-bece-e6fd5eb7c9e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Generar' or . = 'Generar')]</value>
-      <webElementGuid>c83c0844-ddef-47d5-955c-c366688db429</webElementGuid>
+      <webElementGuid>908046e4-2ae9-4348-b51b-654e91ae9765</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
